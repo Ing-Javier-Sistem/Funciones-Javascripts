@@ -3,6 +3,7 @@ function Array_push(num, texto){
 
     array.push(num);
     array.push(texto);
+    
     // LA FUNCION DE JS agrega valores al array
 
     return array; 
